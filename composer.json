@@ -1,6 +1,11 @@
 {
     "name": "mcferno/new-relic-php-agent-shim",
     "description": "Stub functions to use when the New Relic PHP agent is not installed or running",
+    "license": "MIT",
+    "authors": [{
+        "name": "Patrick McFern",
+        "homepage": "https://mcferno.com"
+    }],
     "autoload": {
         "files": [
             "src/agent-shim.php"
