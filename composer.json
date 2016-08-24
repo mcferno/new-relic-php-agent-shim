@@ -1,0 +1,9 @@
+{
+    "name": "mcferno/new-relic-php-agent-shim",
+    "description": "Stub functions to use when the New Relic PHP agent is not installed or running",
+    "autoload": {
+        "files": [
+            "src/agent-shim.php"
+        ]
+    }
+}
